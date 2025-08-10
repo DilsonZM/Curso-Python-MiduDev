@@ -4,7 +4,7 @@
 
 # 1. Casting y tipos
 # Convierte edad_str a entero y muestra el doble de su valor.
-edad_str = "25"
+edad_str = "26"
 edad_entero = int(edad_str)
 print(f"El doble de la edad es: {edad_entero * 2}")
 
@@ -75,7 +75,7 @@ if numero_adivinado == numero_secreto:
     print("¡Felicidades! Has adivinado el número secreto.")
 else:
     print("Lo siento, no has adivinado el número secreto. Inténtalo de nuevo.")
-    
+
 # 8. Conversor de divisas
 # Pide una cantidad en euros y conviértela a dólares (1 euro = 1.1 dólares).
 cantidad_euros = float(input("Introduce la cantidad en euros: "))
