@@ -19,4 +19,5 @@ print(bytes("hello", "utf-8"))  # Convertir una cadena a bytes
 
 #Prueba de historial de versiones
 print("Historial de versiones:")
-print("Versión 1.0: Introducción a las conversiones de tipo")
+print("Versión 1.0: Introducción a las conversiones de tipo")   
+print
