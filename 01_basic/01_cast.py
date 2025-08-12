@@ -14,5 +14,5 @@ print(set([1, 2, 2, 3]))  # Convertir una lista a conjunto
 print(dict([("a", 1), ("b", 2)]))  # Convertir una lista de tuplas a diccionario
 print(range(5))  # Crear un rango de números
 print(type(None))  # Tipo NoneType 
-
-
+print(complex(1, 2))  # Crear un número complejo
+print(bytes("hello", "utf-8"))  # Convertir una cadena a bytes
