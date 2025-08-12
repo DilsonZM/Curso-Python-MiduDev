@@ -16,3 +16,7 @@ print(range(5))  # Crear un rango de números
 print(type(None))  # Tipo NoneType 
 print(complex(1, 2))  # Crear un número complejo
 print(bytes("hello", "utf-8"))  # Convertir una cadena a bytes
+
+#Prueba de historial de versiones
+print("Historial de versiones:")
+print("Versión 1.0: Introducción a las conversiones de tipo")
